@@ -99,8 +99,6 @@ Project Leader, *Prof. Wentao Jiang*, NWPU · Jun. 2022 – Dec. 2023
 </div>
 </div>
 
-On the side, I am also interested in dynamic 3D / 4D scene generation — animating a scene from a single image using NeRF and 3D Gaussian Splatting backbones with video-diffusion priors.
-
 # 🎖 Honors and Awards
 
 **Scholarships &amp; Honors**
