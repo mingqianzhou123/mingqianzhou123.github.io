@@ -16,17 +16,31 @@ I am currently an MPhil student in Advanced Computer Science at the University o
 
 I received my BEng in Robotics Engineering from Northwestern Polytechnical University (NWPU), ranking **1st out of 345** students. During my undergraduate years, I was deeply involved in robotics competitions and real-world robot development, including RoboCup China, and served as captain of the rescue-robotics team at our robotics base. These experiences shaped my belief that impactful robotics research should not only produce elegant models, but also systems that work when the world becomes messy.
 
-I am currently looking for **research / RA positions** (available from August 2026), and will be applying for **PhD positions starting Fall 2027**, in embodied AI and robot learning. My CV is available [**here**](/images/Mingqian_Zhou_CV.pdf), and feel free to reach me at **mz560@cam.ac.uk**.
+My CV is available [**here**](/images/Mingqian_Zhou_CV.pdf).
+
+<div style="background:#f5f8fc;border:1px solid #e3e9f2;border-left:4px solid #00369f;border-radius:10px;padding:16px 20px;margin:20px 0;">
+<div style="font-weight:700;font-size:1.08em;margin-bottom:8px;">🎯 Looking For</div>
+<div style="margin-bottom:8px;"><b>Research / RA / visiting positions</b> from <b>August 2026</b> (6–9 months) &nbsp;·&nbsp; <b>PhD positions</b> starting <b>Fall 2027</b></div>
+<div style="margin-bottom:4px;">in embodied AI and robot learning, especially:</div>
+<ul style="margin:0 0 10px;padding-left:1.25em;">
+<li>Humanoid learning &amp; whole-body control</li>
+<li>Sim-to-real reinforcement learning</li>
+<li>World models for embodied agents</li>
+<li>Vision-language-action models</li>
+</ul>
+<div>📩 <a href="mailto:mz560@cam.ac.uk">mz560@cam.ac.uk</a></div>
+</div>
 
 # 🔥 News
 - *2026.05*: &nbsp; GEAR, my first-author work on functional 3D scene-graph grounding, is in preparation (target: IEEE RA-L).
-- *2026.03*: &nbsp;🎉 Dream2Act was submitted to **CoRL 2026** (under review).
+- *2026.03*: &nbsp;🎉 Dream2Act preprint released on **arXiv** ([arXiv:2603.19709](https://arxiv.org/abs/2603.19709)).
 - *2025.09*: &nbsp; Completed real-world zero-shot humanoid deployment on a full-sized Unitree G1.
 - *2025.09*: &nbsp;🎓 Graduated from NWPU as an **Outstanding Graduate** (top 1%) and started my MPhil at Cambridge.
 
-# 📝 Publications
+# 📝 Papers & Preprints
+{: #publications}
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/gear.png' alt="GEAR" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Prep</div><img src='images/gear.png' alt="GEAR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **GEAR: Gated Evidence-Aware Routing for Functional 3D Scene Graph Grounding**
@@ -35,21 +49,23 @@ I am currently looking for **research / RA positions** (available from August 20
 
 *Manuscript in preparation — target: IEEE RA-L*
 
-- We ask *when* LLM graph verification is worth calling. GEAR scores candidates with a structured graph prior and a validation-frozen router invokes an LLM verifier only when needed — reaching **0.7075** overall R@1 at just **14.7%** API calls (+0.0467 over the prior). I built **FunGraph-Bench**: 1,412 frozen queries over SceneFun3D and 3DSSG with target, anchor, supporting-edge, and same-label-distractor annotations.
+- GEAR studies *when* expensive LLM-based graph verification is actually worth calling for functional 3D scene-graph grounding. It pairs a structured graph prior with a validation-frozen router that invokes the LLM verifier only when it helps — reaching **0.7075** overall R@1 while keeping verifier calls low (**58.1%** verifier invocation, ≈**14.7%** normalized API cost). I also built **FunGraph-Bench**, a 1,412-query benchmark over SceneFun3D and 3DSSG with target, anchor, supporting-edge, and same-label-distractor annotations.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2026</div><img src='images/dream2act.png' alt="Dream2Act" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/dream2act.png' alt="Dream2Act" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Beyond Retargeting: Robot-Centric Video Hallucination for Zero-Shot Humanoid Interaction (Dream2Act)**
+**Dream2Act: Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis**
 
-Wei Xu, Jiahui Li, Yujie Gu, Boyuan Yang, Haodong Chen, Shiyi Lin, **<u>Mingqian Zhou</u>**, et al.
+Weisheng Xu\*, Jian Li\*, Yi Gu, Bin Yang, Haodong Chen, Shuyi Lin, **<u>Mingqian Zhou</u>**, et al. &nbsp;<span style="font-size:.88em;color:#777;">(\*equal contribution; Renjing Xu, corresponding author)</span>
 
-*Conference on Robot Learning (CoRL), 2026 — Under Review*
+*arXiv 2026 (arXiv:2603.19709)*
 
-- Rather than human-to-robot retargeting, Dream2Act uses visual foundation models as zero-shot physical simulators, hallucinating interaction video in the robot's own morphology from a single third-person image.
-- **My contribution:** I led the real-world deployment on the **29-DoF Unitree G1** — building the on-robot execution pipeline (global-trajectory solver + constrained-IK) and running all hardware experiments — reaching **70% sitting / 60% kicking** success and cutting average spatial error by **60%+** over retargeting baselines.
+<a href="https://wesleyxu224.github.io/Dream2Act/" style="display:inline-block;padding:1px 11px;margin:3px 6px 3px 0;border:1px solid #00369f;border-radius:6px;color:#00369f;font-size:.84em;font-weight:600;text-decoration:none;">🌐 Project Page</a><a href="https://arxiv.org/abs/2603.19709" style="display:inline-block;padding:1px 11px;margin:3px 6px 3px 0;border:1px solid #00369f;border-radius:6px;color:#00369f;font-size:.84em;font-weight:600;text-decoration:none;">📄 arXiv</a><a href="https://wesleyxu224.github.io/Dream2Act/static/pdfs/dream2act.pdf" style="display:inline-block;padding:1px 11px;margin:3px 6px 3px 0;border:1px solid #00369f;border-radius:6px;color:#00369f;font-size:.84em;font-weight:600;text-decoration:none;">📑 PDF</a><a href="https://github.com/WesleyXu224/Dream2Act_Code" style="display:inline-block;padding:1px 11px;margin:3px 6px 3px 0;border:1px solid #00369f;border-radius:6px;color:#00369f;font-size:.84em;font-weight:600;text-decoration:none;">💻 Code</a>
+
+- Dream2Act uses video generation models as zero-shot physical simulators, hallucinating interaction video in the robot's own morphology from a single third-person image — sidestepping the morphology gap of human-to-robot retargeting. Evaluated on the Unitree G1 across four whole-body interaction tasks, it reaches **37.5%** overall task success vs **0%** for retargeting baselines.
+- **My contribution:** I led the real-world deployment on the Unitree G1 — building the on-robot execution pipeline (global-trajectory solver + constrained IK) and running the hardware experiments.
 </div>
 </div>
 
