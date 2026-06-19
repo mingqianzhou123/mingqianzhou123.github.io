@@ -20,7 +20,7 @@ My CV is available [**here**](/images/Mingqian_Zhou_CV.pdf).
 
 <div style="background:#f5f8fc;border:1px solid #e3e9f2;border-left:4px solid #00369f;border-radius:10px;padding:16px 20px;margin:20px 0;">
 <div style="font-weight:700;font-size:1.08em;margin-bottom:8px;">🎯 Looking For</div>
-<div style="margin-bottom:8px;"><b>Research / RA / visiting positions</b> from <b>August 2026</b> (6–9 months) &nbsp;·&nbsp; <b>PhD positions</b> starting <b>Fall 2027</b></div>
+<div style="margin-bottom:8px;"><b>Research Intern / Research Assistant / visiting positions</b> from <b>August 2026</b> (6–9 months) &nbsp;·&nbsp; <b>PhD positions</b> starting <b>Fall 2027</b></div>
 <div style="margin-bottom:4px;">in embodied AI and robot learning, especially:</div>
 <ul style="margin:0 0 10px;padding-left:1.25em;">
 <li>Humanoid learning &amp; whole-body control</li>
