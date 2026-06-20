@@ -128,7 +128,7 @@ Project Leader, *Prof. Wentao Jiang*, NWPU · Jun. 2022 – Dec. 2023
 - *2023.10* &nbsp; **National First Prize**, 2023 China Robot Competition (RoboCup China)
 - *2023.09* &nbsp; **Meritorious Winner**, Mathematical Contest in Modeling (MCM/ICM)
 - *2023.08* &nbsp; **Outstanding Winner**, Elite League of the National 3D Competition
-- *2023.08* &nbsp; **National Third Prize**, China Intelligent Robot Innovation Competition
+- *2023.08* &nbsp; **National First Prize**, China Intelligent Robot Innovation Competition
 - *2022.07* &nbsp; **International First Prize**, Asia-Pacific Mathematical Contest in Modeling (APMCM)
 - *2022.03* &nbsp; **Champion**, 2022 China Robot Competition (RoboCup China)
 
