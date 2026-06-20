@@ -124,13 +124,13 @@ Project Leader, *Prof. Wentao Jiang*, NWPU · Jun. 2022 – Dec. 2023
 - *2021–2024* &nbsp; **Merit Student of NWPU** (top 5%, four consecutive years)
 
 **Competitions**
-- *2023.11* &nbsp; **Provincial Second Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM)
-- *2023.10* &nbsp; **National Third Prize**, 2023 RoboCup China
-- *2023.09* &nbsp; **Meritorious Winner**, Mathematical Contest in Modeling (MCM/ICM) — top 6%
+- *2023.11* &nbsp; **National First Prize**, Chinese National Mathematical Modeling Competition (CUMCM)
+- *2023.10* &nbsp; **National First Prize**, 2023 China Robot Competition (RoboCup China)
+- *2023.09* &nbsp; **Meritorious Winner**, Mathematical Contest in Modeling (MCM/ICM)
 - *2023.08* &nbsp; **Outstanding Winner**, Elite League of the National 3D Competition
 - *2023.08* &nbsp; **National Third Prize**, China Intelligent Robot Innovation Competition
-- *2022.11* &nbsp; **Champion**, 2022 China Robot Competition &amp; RoboCup China
-- *2022.07* &nbsp; **International Third Prize**, Asia-Pacific Mathematical Contest in Modeling (APMCM)
+- *2022.07* &nbsp; **International First Prize**, Asia-Pacific Mathematical Contest in Modeling (APMCM)
+- *2022.03* &nbsp; **Champion**, 2022 China Robot Competition (RoboCup China)
 
 # 📖 Education
 - *2025.09 – 2026.06*, **University of Cambridge** — MPhil in Advanced Computer Science (expected Distinction)
