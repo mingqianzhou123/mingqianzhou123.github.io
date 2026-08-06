@@ -117,11 +117,15 @@ Project Leader, *Prof. Wentao Jiang*, NWPU · Jun. 2022 – Dec. 2023
 
 # 🎖 Honors and Awards
 
-**Scholarships &amp; Honors**
+**Scholarships**
+- *2024* &nbsp; **National Scholarship Nominee**; **First-Class Scholarship**
+- *2023* &nbsp; **"Suzhou Yucai" Special Scholarship**; **First-Class Scholarship**
+- *2022* &nbsp; **"Kewei" Special Scholarship**; **First-Class Scholarship**
+
+**Honors**
 - *2025* &nbsp; **Outstanding Graduate of NWPU**
-- *2024* &nbsp; **National Scholarship Nominee**; **First-Class Scholarship**; **Merit Student, NWPU**
-- *2023* &nbsp; **"Suzhou Yucai" Special Scholarship**; **First-Class Scholarship**; **Star of Erudition**; **Merit Student, NWPU**
-- *2022* &nbsp; **"Kewei" Special Scholarship**; **First-Class Scholarship**; **Merit Student, NWPU**
+- *2023* &nbsp; **Star of Erudition**
+- *2022, 2023, 2024* &nbsp; **Merit Student, NWPU**
 
 **Competitions**
 - *2023.08* &nbsp; **Outstanding Winner**, Elite League of the National 3D Competition
