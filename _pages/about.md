@@ -35,7 +35,7 @@ My CV is available [**here**](/images/Mingqian_Zhou_CV.pdf).
 - *2026.05*: &nbsp; GEAR, my first-author work on functional 3D scene-graph grounding, is in preparation (target: IEEE RA-L).
 - *2026.03*: &nbsp;🎉 Dream2Act preprint released on **arXiv** ([arXiv:2603.19709](https://arxiv.org/abs/2603.19709)).
 - *2025.09*: &nbsp; Completed real-world zero-shot humanoid deployment on a full-sized Unitree G1.
-- *2025.09*: &nbsp;🎓 Graduated from NWPU as an **Outstanding Graduate** (top 1%) and started my MPhil at Cambridge.
+- *2025.09*: &nbsp;🎓 Graduated from NWPU as an **Outstanding Graduate** and started my MPhil at Cambridge.
 
 # 📝 Papers & Preprints
 {: #publications}
@@ -118,21 +118,18 @@ Project Leader, *Prof. Wentao Jiang*, NWPU · Jun. 2022 – Dec. 2023
 # 🎖 Honors and Awards
 
 **Scholarships &amp; Honors**
-- *2025* &nbsp; **Outstanding Graduate of NWPU** (top 1%)
-- *2024* &nbsp; **National Scholarship**; **Model Student Pacesetter** — highest honor for undergraduates at NWPU
-- *2023* &nbsp; **"Su Zhou Yu Cai" Special Scholarship** (highest scholarship at NWPU); **Star of Erudition** (1/345)
-- *2021–2024* &nbsp; **Merit Student of NWPU** (top 5%, four consecutive years)
+- *2025* &nbsp; **Outstanding Graduate of NWPU**
+- *2024* &nbsp; **National Scholarship Nominee**; **First-Class Scholarship**; **Merit Student, NWPU**
+- *2023* &nbsp; **"Suzhou Yucai" Special Scholarship**; **First-Class Scholarship**; **Star of Erudition**; **Merit Student, NWPU**
+- *2022* &nbsp; **"Kewei" Special Scholarship**; **First-Class Scholarship**; **Merit Student, NWPU**
 
 **Competitions**
-- *2023.11* &nbsp; **National First Prize**, Chinese National Mathematical Modeling Competition (CUMCM)
-- *2023.10* &nbsp; **National First Prize**, 2023 China Robot Competition (RoboCup China)
-- *2023.09* &nbsp; **Meritorious Winner**, Mathematical Contest in Modeling (MCM/ICM)
 - *2023.08* &nbsp; **Outstanding Winner**, Elite League of the National 3D Competition
-- *2023.08* &nbsp; **National First Prize**, China Intelligent Robot Innovation Competition
-- *2022.07* &nbsp; **International First Prize**, Asia-Pacific Mathematical Contest in Modeling (APMCM)
-- *2022.03* &nbsp; **Champion**, 2022 China Robot Competition (RoboCup China)
+- *2023.04* &nbsp; **Meritorious Winner**, Mathematical Contest in Modeling (MCM/ICM)
+- *2022.11* &nbsp; **National First Prize**, Rescue Robot (Obstacle &amp; Search-and-Rescue), 2022 China Robot Competition (RoboCup China)
+- *2022.11* &nbsp; **National Second Prize**, Rescue Robot (Autonomous Mapping), 2022 China Robot Competition (RoboCup China)
 
 # 📖 Education
-- *2025.09 – 2026.06*, **University of Cambridge** — MPhil in Advanced Computer Science (expected Distinction)
+- *2025.09 – 2026.06*, **University of Cambridge** — MPhil in Advanced Computer Science
 - *2021.09 – 2025.06*, **Northwestern Polytechnical University** — BEng in Robotics (91.36/100, rank 1/345)
 - *2023.08 – 2023.12*, **Khalifa University** (exchange) — Electrical Engineering (GPA 4.0/4.0)
