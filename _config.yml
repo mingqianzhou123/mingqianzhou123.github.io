@@ -24,13 +24,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Mingqian Zhou"
-  avatar           : "images/mingqian-profile.jpg"
+  avatar           : "images/mingqian-avatar.jpg"
   bio              : "Research Engineer at MMLab@NTU.<br>MPhil, University of Cambridge.<br>Interested in embodied AI, humanoid control & robot learning."
   location         : "Singapore"
-  employer         : "MMLab, NTU"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=LC3IdlsAAAAJ&hl=zh-CN"
-  email            : "mz560@cam.ac.uk"
+  email            : "mingqianzhou123@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

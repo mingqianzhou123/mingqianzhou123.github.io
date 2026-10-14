@@ -155,9 +155,55 @@ Project Leader, *Prof. Wentao Jiang*, NWPU · Jun. 2022 – Dec. 2023
 - *2022.11* &nbsp; **National Second Prize**, Rescue Robot (Autonomous Mapping), 2022 China Robot Competition (RoboCup China)
 
 # 💼 Experience
-- *2026.10 – Present*, **MMLab@NTU, Nanyang Technological University** — Research Engineer (with Prof. Chen Change Loy)
+
+<style>
+.inst{display:flex;align-items:center;gap:40px;padding:22px 0;border-bottom:1px solid #eee;}
+.inst-logo{flex:0 0 120px;display:flex;justify-content:center;}
+.inst-logo img{max-width:120px;max-height:120px;width:auto;height:auto;}
+.inst-name{font-size:1.12em;font-weight:600;margin-bottom:6px;}
+.inst-line{margin-top:3px;}
+@media (max-width:600px){.inst{gap:18px;}.inst-logo{flex-basis:72px;}.inst-logo img{max-width:72px;max-height:72px;}}
+</style>
+<div class="inst">
+<div class="inst-logo"><img src="images/logos/ntu.png" alt="NTU logo"></div>
+<div class="inst-text">
+<div class="inst-name"><a href="https://www.ntu.edu.sg/">Nanyang Technological University</a></div>
+<div class="inst-line"><b>2026.10 – Present</b> · <i>Research Engineer</i></div>
+<div class="inst-line"><a href="https://www.mmlab-ntu.com/">MMLab@NTU</a></div><div class="inst-line">Supervisor: <a href="https://www.mmlab-ntu.com/person/ccloy/">Prof. Chen Change Loy</a></div>
+</div>
+</div>
+<div class="inst">
+<div class="inst-logo"><img src="images/logos/hkust-gz.png" alt="HKUST(GZ) logo"></div>
+<div class="inst-text">
+<div class="inst-name"><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></div>
+<div class="inst-line"><b>2025.01 – 2025.09</b> · <i>Research Assistant</i></div>
+<div class="inst-line">Humanoid whole-body control</div><div class="inst-line">Advisor: <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=97">Prof. Renjing Xu</a></div>
+</div>
+</div>
 
 # 📖 Education
-- *2025.09 – 2026.06*, **University of Cambridge** — MPhil in Advanced Computer Science
-- *2021.09 – 2025.06*, **Northwestern Polytechnical University** — BEng in Robotics (91.36/100, rank 1/345)
-- *2023.08 – 2023.12*, **Khalifa University** (exchange) — Electrical Engineering (GPA 4.0/4.0)
+
+<div class="inst">
+<div class="inst-logo"><img src="images/logos/cambridge.png" alt="University of Cambridge logo"></div>
+<div class="inst-text">
+<div class="inst-name"><a href="https://www.cam.ac.uk/">University of Cambridge</a></div>
+<div class="inst-line"><b>2025.09 – 2026.06</b> · <i>MPhil in Advanced Computer Science</i></div>
+<div class="inst-line"><a href="https://www.cst.cam.ac.uk/">Department of Computer Science and Technology</a></div><div class="inst-line">Supervisors: <a href="https://www.cl.cam.ac.uk/~pl219/">Prof. Pietro Liò</a> and <a href="https://www.proroklab.org/people/amanda-prorok/">Prof. Amanda Prorok</a></div>
+</div>
+</div>
+<div class="inst">
+<div class="inst-logo"><img src="images/logos/nwpu.png" alt="NWPU logo"></div>
+<div class="inst-text">
+<div class="inst-name"><a href="https://en.nwpu.edu.cn/">Northwestern Polytechnical University</a></div>
+<div class="inst-line"><b>2021.09 – 2025.06</b> · <i>BEng in Robotics</i></div>
+<div class="inst-line">91.36/100 · rank 1/345 · Outstanding Graduate</div>
+</div>
+</div>
+<div class="inst">
+<div class="inst-logo"><img src="images/logos/khalifa.png" alt="Khalifa University logo"></div>
+<div class="inst-text">
+<div class="inst-name"><a href="https://www.ku.ac.ae/">Khalifa University</a></div>
+<div class="inst-line"><b>2023.08 – 2023.12</b> · <i>Exchange Student</i></div>
+<div class="inst-line">Electrical Engineering · GPA 4.0/4.0</div>
+</div>
+</div>
