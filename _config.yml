@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingqian Zhou"
-description              : "Homepage of Mingqian Zhou — MPhil student in Advanced Computer Science at the University of Cambridge, working on embodied AI, humanoid whole-body control, and 3D scene understanding for action."
+description              : "Homepage of Mingqian Zhou — Research Engineer at MMLab@NTU (Cambridge MPhil), working on embodied AI, humanoid whole-body control, vision-language-action models, and robot policy evaluation."
 repository               : "mingqianzhou123/mingqianzhou123.github.io"
 url                      : "https://mingqianzhou123.github.io"
 baseurl                  : ""
@@ -25,9 +25,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mingqian Zhou"
   avatar           : "images/mingqian-profile.jpg"
-  bio              : "MPhil in Advanced Computer Science, University of Cambridge. Interested in embodied AI, humanoid control & robot learning."
-  location         : "Cambridge, UK"
-  employer         : "University of Cambridge"
+  bio              : "Research Engineer at MMLab@NTU.<br>MPhil, University of Cambridge.<br>Interested in embodied AI, humanoid control & robot learning."
+  location         : "Singapore"
+  employer         : "MMLab, NTU"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=LC3IdlsAAAAJ&hl=zh-CN"
   email            : "mz560@cam.ac.uk"

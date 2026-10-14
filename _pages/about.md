@@ -12,26 +12,16 @@ redirect_from:
 
 Hi, I'm **Mingqian Zhou (周鸣谦)**. My research is driven by a simple question: how can algorithms leave the screen and make intelligent, reliable decisions in the physical world? I am particularly interested in enabling humanoid robots to perform useful tasks in unstructured real-world environments, which brings my work to the intersection of humanoid whole-body control, sim-to-real reinforcement learning, and action-grounded 3D scene understanding.
 
-I am currently an MPhil student in Advanced Computer Science at the University of Cambridge, where I work with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) on functional 3D scene-graph grounding, and completed my dissertation with [Prof. Amanda Prorok](https://www.proroklab.org/people/amanda-prorok/) on generalist multi-agent reinforcement learning. Before Cambridge, I spent my final undergraduate year as a research assistant in [Prof. Renjing Xu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=97)'s group at HKUST (Guangzhou), which opened the door to humanoid robotics for me and turned my long-standing fascination with embodied intelligence into a concrete research direction.
+I am currently a Research Engineer at [MMLab@NTU](https://www.mmlab-ntu.com/), Nanyang Technological University, working with [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/). Before that, I completed my MPhil in Advanced Computer Science at the University of Cambridge, where I worked with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) on functional 3D scene-graph grounding, and completed my dissertation with [Prof. Amanda Prorok](https://www.proroklab.org/people/amanda-prorok/) on generalist multi-agent reinforcement learning. Before Cambridge, I spent my final undergraduate year as a research assistant in [Prof. Renjing Xu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=97)'s group at HKUST (Guangzhou), which opened the door to humanoid robotics for me and turned my long-standing fascination with embodied intelligence into a concrete research direction.
 
 I received my BEng in Robotics Engineering from Northwestern Polytechnical University (NWPU), ranking **1st out of 345** students. During my undergraduate years, I was deeply involved in robotics competitions and real-world robot development, including RoboCup China, and served as captain of the rescue-robotics team at our robotics base. These experiences shaped my belief that impactful robotics research should not only produce elegant models, but also systems that work when the world becomes messy.
 
 My CV is available [**here**](/images/Mingqian_Zhou_CV.pdf).
 
-<div style="background:#f5f8fc;border:1px solid #e3e9f2;border-left:4px solid #00369f;border-radius:10px;padding:16px 20px;margin:20px 0;">
-<div style="font-weight:700;font-size:1.08em;margin-bottom:8px;">🎯 Looking For</div>
-<div style="margin-bottom:8px;"><b>Research Intern / Research Assistant / visiting positions</b> from <b>August 2026</b> (6–9 months) &nbsp;·&nbsp; <b>PhD positions</b> starting <b>Fall 2027</b></div>
-<div style="margin-bottom:4px;">in embodied AI and robot learning, especially:</div>
-<ul style="margin:0 0 10px;padding-left:1.25em;">
-<li>Humanoid learning &amp; whole-body control</li>
-<li>Sim-to-real reinforcement learning</li>
-<li>World models for embodied agents</li>
-<li>Vision-language-action models</li>
-</ul>
-<div>📩 <a href="mailto:mz560@cam.ac.uk">mz560@cam.ac.uk</a></div>
-</div>
-
 # 🔥 News
+- *2026.10*: &nbsp; Joined **MMLab@NTU** as a Research Engineer, working with Prof. Chen Change Loy.
+- *2026.10*: &nbsp;🎉 Kimodo-Policy preprint released ([project page](https://kimodo-policy.github.io/script/)).
+- *2026.09*: &nbsp; LumiBench, a benchmark for illumination robustness in robotic manipulation, submitted and under review.
 - *2026.05*: &nbsp; GEAR, my first-author work on functional 3D scene-graph grounding, is in preparation (target: IEEE RA-L).
 - *2026.03*: &nbsp;🎉 Dream2Act preprint released on **arXiv** ([arXiv:2603.19709](https://arxiv.org/abs/2603.19709)).
 - *2025.09*: &nbsp; Completed real-world zero-shot humanoid deployment on a full-sized Unitree G1.
@@ -39,6 +29,36 @@ My CV is available [**here**](/images/Mingqian_Zhou_CV.pdf).
 
 # 📝 Papers & Preprints
 {: #publications}
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/kimodo.png' alt="Kimodo-Policy" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Kimodo-Policy: From Text-to-Motion Generators to Humanoid Vision-Language-Action Policies**
+
+Yunheng Wang\*, Jiaxi Zhang\*, Wei Lu\*, Yuetong Fang, Taowen Wang, Yixiao Feng, Shuning Zhang, Junzhe Xu, Yichi Wang, Zizhao Yuan, Kailun Huang, Lusong Li, **<u>Mingqian Zhou</u>**, Zecui Zeng, Renjing Xu &nbsp;<span style="font-size:.88em;color:#777;">(\*equal contribution; Zecui Zeng and Renjing Xu, corresponding authors)</span>
+
+*arXiv preprint 2026*
+
+<a href="https://kimodo-policy.github.io/script/" style="display:inline-block;padding:1px 11px;margin:3px 6px 3px 0;border:1px solid #00369f;border-radius:6px;color:#00369f;font-size:.84em;font-weight:600;text-decoration:none;">🌐 Project Page</a><a href="https://github.com/kimodo-policy/kimodo-policy.github.io/releases/download/web-v1/main_arxiv.copy.pdf" style="display:inline-block;padding:1px 11px;margin:3px 6px 3px 0;border:1px solid #00369f;border-radius:6px;color:#00369f;font-size:.84em;font-weight:600;text-decoration:none;">📑 PDF</a>
+
+- Kimodo-Policy builds a humanoid vision-language-action policy on top of a pretrained text-to-motion model, so the policy starts from whole-body motion priors instead of learning coordination from scratch. Actions are generated in three stages (root → body → hand). With 678M parameters (92M trainable), it reaches **72.14%** overall success on HumanoidArena, best or joint-best results on six of eight SIMPLE tasks, and **60%** mean success on real-world loco-manipulation tasks.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/lumibench.png' alt="LumiBench" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LumiBench: Benchmarking Illumination Robustness in Robotic Manipulation Policies**
+
+… **<u>Mingqian Zhou</u>** … &nbsp;<span style="font-size:.88em;color:#777;">(full author list withheld during anonymous review)</span>
+
+*Under review, 2026*
+
+<a href="https://victor-roboneo.github.io/LumiBench/" style="display:inline-block;padding:1px 11px;margin:3px 6px 3px 0;border:1px solid #00369f;border-radius:6px;color:#00369f;font-size:.84em;font-weight:600;text-decoration:none;">🌐 Project Page</a>
+
+- LumiBench sorts lighting changes by physical mechanism (intensity, color, uneven lighting, flicker, moving shadows) and tests each one against the same rollout under normal light. Built on RoboTwin 2.0 with five policy families and ten tasks, plus real-robot checks. Robustness depends heavily on the policy, task, and lighting type: OpenVLA-OFT keeps **88.3%** of its normal-light success under perturbation, while FastWAM keeps **46.1%** despite scoring higher under normal light.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Prep</div><img src='images/gear.png' alt="GEAR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,14 +102,14 @@ Research Assistant, *Prof. Renjing Xu*, HKUST (Guangzhou) · Jan.–Sep. 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cambridge · Ongoing</div><img src='images/marl.png' alt="Multi-Agent RL" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cambridge · 2025–26</div><img src='images/marl.png' alt="Multi-Agent RL" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Learning Cooperative Primitives for Multi-Task Multi-Agent Reinforcement Learning**
 
-Graduate Researcher, *Prof. Amanda Prorok*, University of Cambridge · Ongoing
+MPhil Dissertation, *Prof. Amanda Prorok*, University of Cambridge · 2025–2026
 
-- Developing a foundation-model-inspired generalist policy that learns reusable cooperative primitives for zero-shot transfer across unseen multi-agent tasks, using graph-based attentional communication, VMAS curricula, and BenchMARL evaluation against MARL baselines such as MAPPO.
+- Developed a foundation-model-inspired generalist policy that learns reusable cooperative primitives for zero-shot transfer across unseen multi-agent tasks, using graph-based attentional communication, VMAS curricula, and BenchMARL evaluation against MARL baselines such as MAPPO.
 </div>
 </div>
 
@@ -133,6 +153,9 @@ Project Leader, *Prof. Wentao Jiang*, NWPU · Jun. 2022 – Dec. 2023
 - *2023.04* &nbsp; **Meritorious Winner**, Mathematical Contest in Modeling (MCM/ICM)
 - *2022.11* &nbsp; **National First Prize**, Rescue Robot (Obstacle &amp; Search-and-Rescue), 2022 China Robot Competition (RoboCup China)
 - *2022.11* &nbsp; **National Second Prize**, Rescue Robot (Autonomous Mapping), 2022 China Robot Competition (RoboCup China)
+
+# 💼 Experience
+- *2026.10 – Present*, **MMLab@NTU, Nanyang Technological University** — Research Engineer (with Prof. Chen Change Loy)
 
 # 📖 Education
 - *2025.09 – 2026.06*, **University of Cambridge** — MPhil in Advanced Computer Science
